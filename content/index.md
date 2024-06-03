@@ -6,7 +6,7 @@ transclude: "false"
 <img src="./thoreaus_hut.svg" height="350" />
 </p>
 
-Welcome traveler! You've wandered into my humble [[thoughts/digital-forests|forest of ideas]]! 
+test Welcome traveler! You've wandered into my humble [[thoughts/digital-forests|forest of ideas]]! 
 
 I'm a researcher committed to imagining and re-imagining our relationship with technology. Integral to this work is a vision for "AI" where access, governance and use are made safe, equitable and sustainable. Many [[fellow_traveler|long roads]] lie ahead, but I doggedly believe better futures are possible.
 
