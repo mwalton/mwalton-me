@@ -10,6 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       "Scholar": "https://scholar.google.com/citations?user=TTEHCqUAAAAJ",
       GitHub: "https://github.com/mwalton",
+      "iNaturalist": "https://www.inaturalist.org/observations?place_id=any&user_id=mykewalton&verifiable=any",
       Substack: "https://substack.com/@autopoiesis",
       //"Hugging Face 🤗": "https://huggingface.co/mwalton",
       //"Bluesky 🦋": "https://bsky.app/profile/mwalton.bsky.social"

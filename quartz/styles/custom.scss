@@ -28,7 +28,8 @@ body {
 }
 
 [saved-theme="dark"] body[data-slug="index"] img[src*="thoreaus_hut.svg"] {
-    filter: invert(25%);
+    //filter: invert(50%);
+    filter: brightness(0) saturate(100%) invert(35%) sepia(9%) saturate(898%) hue-rotate(161deg) brightness(96%) contrast(93%);
 }
 
 body[data-slug="thoughts/craft"] {
