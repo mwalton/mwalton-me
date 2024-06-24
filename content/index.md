@@ -21,3 +21,5 @@ Here are some paths you might follow to get to know more about me, my research a
 - [[posts/index|🌱 greenhouse]] : recent doings, musings and evolving ideas
 - [[cv/current_doings|🌲 woodlands]] : longstanding positions and projects
 - [[books/_booklist|🍃 tea garden]] : curated reading list. grab some 🍵 and enjoy!
+
+If you'd like to chat my door is always open! The best way to reach me is: hi at mwalton dot me
