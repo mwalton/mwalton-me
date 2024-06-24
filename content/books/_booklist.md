@@ -3,8 +3,10 @@ title: Reading List
 date: 2023-10-30
 ---
 ## Recent Reads
-- [[imagination|Imagination: A Manifesto]], Ruha Benjamin
-- [[atlas_ai|Atlas of AI]], Kate Crawford
+
+| [![Imagination+cover\_final.png](https://images.squarespace-cdn.com/content/v1/5bbd85f3809d8e6a1a3c5c9e/99955658-9c69-4465-8c84-c54ef0ea8c93/Imagination+cover_final.png?format=1500w )](https://www.ruhabenjamin.com/imagination-a-manifesto) | [![9780262043458.jpg](https://mit-press-us.imgix.net/covers/9780262043458.jpg?auto=format&w=298&dpr=2&q=80)](https://mitpress.mit.edu/9780262043458/)<br> |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
 ## Favorites of 2023
 - [Entangled Life](https://www.merlinsheldrake.com/entangled-life), Merlin Sheldrake
 - [Viral Justice](https://press.princeton.edu/books/hardcover/9780691222882/viral-justice), Ruha Benjamin
