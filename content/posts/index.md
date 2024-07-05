@@ -1,3 +1,3 @@
 ---
-title: Recent Doings
+title: Recent Doings 🌱
 ---

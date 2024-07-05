@@ -1,6 +1,6 @@
 ---
 title: Theory of Mind for Deep Reinforcement Learning in Hanabi
-date: 2023-03-10
+date: 2021-01-22
 tags:
   - ToM
   - rl

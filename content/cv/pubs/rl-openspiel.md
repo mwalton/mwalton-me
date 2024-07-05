@@ -1,6 +1,6 @@
 ---
 title: "Multi-agent Reinforcement Learning in OpenSpiel: A Reproduction Report"
-date: 2023-03-10
+date: 2021-02-27
 tags:
   - game-theory
   - rl

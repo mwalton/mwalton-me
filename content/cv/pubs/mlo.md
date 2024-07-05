@@ -1,10 +1,10 @@
 ---
-title: "# Hunting for naval mines with deep neural networks"
-date: 2023-03-10
+title: Hunting for naval mines with deep neural networks
+date: 2017-09-18
 tags:
   - cv
 ---
-Daniel Gebhardt, Keyur Parikh, Iryna Dzieciuch, Michael Walton, Nhut Anh Vo Hoang
+Daniel Gebhardt, Keyur Parikh, Iryna Dzieciuch, __Michael Walton__, Nhut Anh Vo Hoang
 
 ![[cv/pubs/images/mlo.png]]
 

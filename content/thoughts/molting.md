@@ -10,9 +10,9 @@ Lots of people put stickers on their laptops. In my experience this behavior doe
 ![[drupat-2.jpg]]
 *Figure 1. Trichoptera larva with case, 1980-2000. Photographer: Frédéric Delpech.*
 
-I'm reminded of caddishfly larvae, which (in a natural environment) construct cocoons around their bodies by gluing twigs and rocks together with their saliva. The artist [Hubert Duprat](https://www.galerieartconcept.com/en/hubert-duprat-3/) "collaborated" with these tiny creatures by immersing them in a tank filled with flecks of gold, pearls and precious stones from which they happily built their transformative tubes.
+I'm reminded of caddishfly larvae, which (in a natural environment) construct cocoons around their bodies by gluing twigs and rocks together with their saliva. The artist Hubert Duprat[^1],[^2] "collaborated" with these tiny creatures by immersing them in a tank filled with flecks of gold, pearls and precious stones from which they happily built their transformative tubes.
 
-Like the gilded caddishfly, so too do we carefully collect, curate and glue stickers around the primary hosts of our digital selves. I wonder, then, what will *my* aluminum shell prove to be: A vessel of cybernetic transmutation or an [information cocoon](https://www.nature.com/articles/s42256-023-00731-4)?
+Like the gilded caddishfly, so too do we carefully collect, curate and glue stickers around the primary hosts of our digital selves. I wonder, then, what will *my* aluminum shell prove to be: A vessel of cybernetic transmutation or an information cocoon[^3]?
 
 ![[caddis-gif-2.gif]]
 *Figure 2: Me, meticulously deciding where to put a silly little sticker on my silly little laptop*
@@ -27,3 +27,7 @@ Regardless, this exercise in personalization makes me *miss* a laptop when I she
 ## October 8, 2020
 
 ![[IMG_2556.jpeg]]
+
+[^1]: [Duprat, Besson, *The Wonderful Caddis Worm: Sculptural Work in Collaboration with Trichoptera* 1998](https://www.jstor.org/stable/1576566)
+[^2]: [Artist Hubert Duprat discussing his work](https://www.youtube.com/watch?v=e78hni1LoSo&t=35s&ab_channel=NorfolkCountyCouncil)
+[^3]: [Piao, Liu, Zhang, Su, Li, *Human–AI adaptive dynamics drives the emergence of information cocoons* 2023](https://www.nature.com/articles/s42256-023-00731-4)
