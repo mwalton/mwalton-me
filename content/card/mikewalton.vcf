@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Walton;Mike;;;
+FN:Mike Walton
+ORG:
+ADR;TYPE=WORK:
+TITLE:
+TEL;TYPE=CELL:
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:walton.mike@proton.me
+URL;TYPE=Digital Business Card:
+URL:https://mwalton.me/
+URL;TYPE=Website:https://mwalton.me/
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100395532
+END:VCARD

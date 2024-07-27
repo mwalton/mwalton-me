@@ -4,8 +4,8 @@ date: 2023-10-30
 ---
 ## Recent Reads
 
-| [![eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6Ijc2cmhranBjLzExNTgyNjgxMTcxMDAyLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NjAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=](https://resize-v3.pubpub.org/eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6Ijc2cmhranBjLzExNTgyNjgxMTcxMDAyLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NjAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=)](https://data-feminism.mitpress.mit.edu/) | [![9780262043458.jpg](https://mit-press-us.imgix.net/covers/9780262043458.jpg?auto=format&w=298&dpr=2&q=80)](https://mitpress.mit.edu/9780262043458/)<br> |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![9780300248272.jpg](https://yale-press-us.imgix.net/covers/9780300248272.jpg?auto=format&w=298&dpr=2&q=100)](https://yalebooks.yale.edu/book/9780300248272/death-glitch/) | [![9780691220550.jpg](https://pup-assets.imgix.net/onix/images/9780691220550.jpg?w=410&auto=format)](https://press.princeton.edu/books/paperback/9780691220550/the-mushroom-at-the-end-of-the-world)<br> |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ## Favorites of 2023
 - [Entangled Life](https://www.merlinsheldrake.com/entangled-life), Merlin Sheldrake
