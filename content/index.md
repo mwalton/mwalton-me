@@ -8,17 +8,13 @@ transclude: "false"
 
 Welcome traveler! You've wandered into my humble [[thoughts/digital-forests|forest of ideas]]! 
 
-I'm a researcher committed to imagining and re-imagining our relationship with technology. Integral to this work is a vision for "AI" where access, governance and use are made safe, equitable and sustainable. Many [[fellow_traveler|long roads]] lie ahead, but I doggedly believe better futures are possible.
+I'm a writer & researcher committed to re-imagining our relationship with technology & the ecosystems of which we are a part.  I'm interested all sorts of things, most recently I'm studying mycology and microbiology at The Evergreen State College. After a decade spent in "[[cv/pubs/dac-rl|Machine]] [[cv/pubs/tom-rl|Learning]]" [[cv/pubs/rl-openspiel|research]], I have come to intimately understand the complex ways these technologies harm us and our world. I continue to engage with "AI" in the form of [[midtheory|criticism]]. 
 
-In my current role as a fellow with [[etf_2023|xD @ The US Census Bureau]] I'm working on governance frameworks for operationalizing Responsible AI, improving the user experience of [Model Cards](https://bias.xd.gov/) for government use cases and developing new methods for auditing and assessing the impacts of algorithmic systems.
-
->*We're in a science fiction novel now that we are all co-writing together.* — Kim Stanley Robinson
-
-After a decade spent working on [[cv/pubs/dac-rl|multi-agent systems]], [[cv/pubs/tom-rl|reinforcement learning]] & [[cv/pubs/rl-openspiel|game theory]] I have found value and insight by building [reflexivity](https://pages.gseis.ucla.edu/faculty/agre/critical.html) into my technical practice. For me, this has taken the form of short reflective [[thoughts/index|essays]].
+I have found value and insight by combining [reflexivity](https://pages.gseis.ucla.edu/faculty/agre/critical.html) into research & technical practice. For me, this has taken the form of personal [[thoughts/index|essays]]. Many [[fellow_traveler|long roads]] lie ahead, but I doggedly believe better futures are possible.
 
 > *Every story I create, creates me. I write to create myself.* — Octavia E. Butler
 
-I live on a [[farm]] in Washington State where I find constant inspiration from the diversity of life I'm grateful to be immersed in. Here are some paths you might follow to get to know more about me, my research and other interests:
+I wander around a lot but I'm mostly based in the Pacific Northwest where I have found boundless inspiration from the diversity of life I'm grateful to be immersed in there. Here are some paths you might follow to get to know more about me, my work & my interests:
 
 - [[posts/index|🌱 greenhouse]] : recent doings, musings and evolving ideas
 - [[cv/current_doings|🌲 woodlands]] : longstanding positions and projects

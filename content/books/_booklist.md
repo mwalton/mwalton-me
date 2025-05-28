@@ -2,11 +2,17 @@
 title: Reading List
 date: 2023-10-30
 ---
-## Recent Reads
+## Current Reads
+- [The AI Con: How to Fight Big Tech's Hype and Create the Future We Want](https://app.thestorygraph.com/books/e90518ee-8aeb-4e3e-b4c1-8a434bd3e67f)
+- [Earth Repair: A Grassroots Guide to Healing Toxic and Damaged Landscapes](https://app.thestorygraph.com/books/93e6bb50-0b04-425d-94c6-c4e9c5ec1789)
 
-| [![9780300248272.jpg](https://yale-press-us.imgix.net/covers/9780300248272.jpg?auto=format&w=298&dpr=2&q=100)](https://yalebooks.yale.edu/book/9780300248272/death-glitch/) | [![9780691220550.jpg](https://pup-assets.imgix.net/onix/images/9780691220550.jpg?w=410&auto=format)](https://press.princeton.edu/books/paperback/9780691220550/the-mushroom-at-the-end-of-the-world)<br> |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
+*Find me on [The StoryGraph](https://app.thestorygraph.com/profile/mwalton) for reading updates. Happy to discuss if you see something you're reading!*
+## Favorites of 2024
+- [21st Century Guidebook to Fungi](https://www.cambridge.org/highereducation/books/21st-century-guidebook-to-fungi/E0C1FCB9FFCF89CFB11EF0CACA1CD436#overview), David Moore, Geoffrey D. Robson & Anthony P. J. Trinci
+- [Imagination: A manifesto](https://www.ruhabenjamin.com/imagination-a-manifesto), Ruha Benjamin
+- [Data Feminism](https://data-feminism.mitpress.mit.edu/), Catherine D'Ignazio & Lauren F. Klein
+- [Revolutionary Mathematics](https://www.versobooks.com/products/816-revolutionary-mathematics?srsltid=AfmBOopombOG-XJ_qRQ2ZFb6QeDEET4Xp8OC9IV-oj_ALPtecaIofnfK), Justin Joque
+- [Social Ecology and the Rojava Revolution](https://www.akpress.org/social-ecology-and-the-rojava-revolution.html), Abdullah Öcalan, Murray & Debbie Bookchin
 ## Favorites of 2023
 - [Entangled Life](https://www.merlinsheldrake.com/entangled-life), Merlin Sheldrake
 - [Viral Justice](https://press.princeton.edu/books/hardcover/9780691222882/viral-justice), Ruha Benjamin
@@ -21,5 +27,5 @@ date: 2023-10-30
 - [Parable of the Sower](https://www.octaviabutler.com/parableseries), Octavia E. Butler
 
 ## 📚 積ん読 
-Behold, my [antilibrary](https://www.goodreads.com/review/list/127050485-michael-walton?shelf=to-read)
+Look upon my [antilibrary](https://app.thestorygraph.com/to-read/mwalton), ye mighty, and despair.
 
