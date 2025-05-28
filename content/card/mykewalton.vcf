@@ -1,7 +1,7 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Walton;Mike;;;
-FN:Mike Walton
+N:Walton;Myke;;;
+FN:Myke Walton
 ORG:
 ADR;TYPE=WORK:
 TITLE:
@@ -9,14 +9,14 @@ TEL;TYPE=CELL:
 TEL;TYPE=WORK:
 TEL;TYPE=HOME:
 TEL;TYPE=MSG:
-EMAIL;TYPE=WORK:walton.mike@proton.me
-URL;TYPE=Digital Business Card:
+EMAIL;TYPE=WORK:hi@mwalton.me
+URL;TYPE=Digital Business Card:https://mwalton.me/card/
 URL:https://mwalton.me/
 URL;TYPE=Website:https://mwalton.me/
 URL;TYPE=Signal:https://signal.me/#p/+16198909974
 URL;TYPE=GitHub:https://github.com/mwalton
-URL;TYPE=LinkedIn:https://linkedin.com/in/michael-walton-444313313
+URL;TYPE=Spotify:https://open.spotify.com/user/1276085246
 KEY;TYPE=PGP;ENCODING=b:
 NOTE:
-UID:EnBizCard-100704394
+UID:EnBizCard-100164505
 END:VCARD
