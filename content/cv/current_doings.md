@@ -17,7 +17,7 @@ date: 2023-03-06
 ## Projects & Publications
 This is a curated list of notable works I've contributed to.
 
-- [Mourning On-Demand: Digital Afterlife Services and Lamentation Economics ](https://mid-theory.com/2025/01/08/mourning-on-demand-digital-afterlife-services-and-lamentation-economics/)
+- [[midtheory|Mourning On-Demand: Digital Afterlife Services and Lamentation Economics]]: [essay](https://mid-theory.com/2025/01/08/mourning-on-demand-digital-afterlife-services-and-lamentation-economics/)
 - [[cv/pubs/rl-openspiel|Multi-agent Reinforcement Learning in OpenSpiel]]: [paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=TTEHCqUAAAAJ&citation_for_view=TTEHCqUAAAAJ:_FxGoFyzp5QC), [code](https://github.com/aicenter/openspiel_reproductions)
 - [[cv/pubs/tom-rl|Theory of Mind for Deep Reinforcement Learning in Hanabi]]: [paper](https://arxiv.org/abs/2101.09328), [code](https://github.com/mwalton/ToM-hanabi-neurips19)
 - [[cv/pubs/dac-rl|Distributed Consensus Reinforcement Learning]]: [patent](https://patents.google.com/patent/US11321635B2/en)
