@@ -1,6 +1,6 @@
 ---
 title: Nejsem Stroj
-date: 2023-11-04
+date: 2022-01-01
 transclude: "false"
 ---
 ### *A human story*
