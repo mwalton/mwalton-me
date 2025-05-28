@@ -10,10 +10,12 @@ In early 2023, I was inspired by Jacky Zhao's approach to [Networked Thought](ht
 The manicured garden of ideas I'd envisioned quickly got overgrown with random weeds, `#TODOs` , tangles and tangents. The tension between the freedom of digital gardens and the desire to just get things done can be frustrating. For a while I tried to shore up the structure, but ultimately I've accepted that I'm most productively at ease here when I just let my thinking rewild. Rather than tending a delicate garden, I like to think of the research process like managing a forest I have no hope of taming: A living, ever evolving adaptive complex system. The process spills across my desk, an ever shifting ecosystem of apps, the margins of my books, napkins and (when I have the patience for it) here.
 
 >*Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.* — Richard Feynman
-## Stewarding the Dark Forest [🌲](https://www.youtube.com/watch?v=Hy1qUMvicCY)
+## Stewarding the Dark Forest
 In the physical world, there is a complex relationship between land *development* and land *stewardship*. For my purposes I think of land *development* as 'changing the landscape for a utilitarian purpose'. 
 
 Similarly, in the virtual world, the language we often use to describe the roles we play and the methods we use are a reflection of our values (eg the creation of software artifacts is carried out under the title *[developer](https://www.youtube.com/watch?v=Vhh_GeBPOhs&ab_channel=MrWueb007)*)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hy1qUMvicCY?si=Cq83wqRo324AEtG5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Stewardship, however is more nuanced. Its definition is always context-dependent but a consistent theme is *caring* for a piece of land, regardless of its ownership; caring about the biodiversity of species that belong to the land; its people, their culture and their customs.
 
