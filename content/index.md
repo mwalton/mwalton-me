@@ -14,9 +14,9 @@ I have found value and insight by combining [reflexivity](https://pages.gseis.uc
 
 > *Every story I create, creates me. I write to create myself.* — Octavia E. Butler
 
-I wander around a lot but I'm mostly based in the Pacific Northwest where I have found boundless inspiration from the diversity of life I'm grateful to be immersed in there. Here are some paths you might follow to get to know more about me, my work & my interests:
+I wander around a lot but I'm mostly based in the Pacific Northwest where I have found boundless inspiration from the diversity of life I'm grateful to be immersed in there. Here are some paths you might follow to get to know more about me, my work & interests:
 
-- [[posts/index|🌱 greenhouse]] : recent doings, musings and evolving ideas
+- 🌱 greenhouse : recent [[posts/index|doings]], [[thoughts/index|musings]] and evolving ideas
 - [[cv/current_doings|🌲 woodlands]] : longstanding positions and projects
 - [[books/_booklist|🍃 tea garden]] : curated reading list. grab some 🍵 and enjoy!
 

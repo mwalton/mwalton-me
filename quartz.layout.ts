@@ -32,7 +32,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.DesktopOnly(
       Component.RecentNotes({
-        title: "Recent Doings 🌱",
+        title: "Recent Doings",
         limit: 2,
         filter: (f) =>
           f.slug!.startsWith("posts/") && f.slug! !== "posts/index" && !f.frontmatter?.noindex,
@@ -41,7 +41,7 @@ export const defaultContentPageLayout: PageLayout = {
     ),
     Component.DesktopOnly(
       Component.RecentNotes({
-        title: "Recent Writing 📝",
+        title: "Writing",
         limit: 2,
         filter: (f) =>
           f.slug!.startsWith("thoughts/") && f.slug! !== "thoughts/index",

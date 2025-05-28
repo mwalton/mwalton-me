@@ -1,3 +1,3 @@
 ---
-title: Recent Writing 📝
+title: Writing
 ---
