@@ -10,4 +10,4 @@ I wrote an essay titled [Mourning On-Demand: Digital Afterlife Services and Lame
 [![[Pasted image 20250527223534.png]]](https://mid-theory.com/2025/01/08/mourning-on-demand-digital-afterlife-services-and-lamentation-economics/)
 
 
-Thank you to my co-author [Sarah Sgro](https://sarah-sgro.com/bio) for a lovely collaboration, to [Martha Henzy](https://mid-theory.com/author/m_henzy/) for the invitation and all the editors at Mid-Theory for your outstanding critical feedback.
+Thank you to my co-author [Sarah Sgro](https://sarah-sgro.com/bio) for a lovely collaboration, to [Martha Henzy](https://mid-theory.com/author/m_henzy/) for the invitation and all the editors at Mid-Theory for your critical feedback.
