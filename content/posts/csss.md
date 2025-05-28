@@ -2,6 +2,8 @@
 title: CSSS 25th Anniversary Conference
 date: 2024-05-17
 transclude: "false"
+tags:
+  - conference
 ---
 [![[Pasted image 20240602170056.png]]](https://csss.uw.edu/)
 

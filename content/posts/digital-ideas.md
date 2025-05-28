@@ -2,6 +2,9 @@
 title: Digital x Climate
 date: 2024-07-02
 tags:
+  - conference
+  - climate
+  - digital-studies
 ---
 ![[Pasted image 20240704204717.png]]
 

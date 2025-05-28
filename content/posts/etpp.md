@@ -2,6 +2,8 @@
 title: Ethics, Technology & Public Policy
 date: 2023-11-15
 tags:
+  - tech-ethics
+  - conference
 ---
 ![[Pasted image 20240602192214.png]]
 

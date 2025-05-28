@@ -2,6 +2,9 @@
 title: Governing AI
 date: 2023-09-11
 transclude: "false"
+tags:
+  - conference
+  - tech-ethics
 ---
 ![govai](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fda4dfb9d-130d-4ec0-8fdb-27fddf8487bf_2160x1080.png)
 

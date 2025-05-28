@@ -2,6 +2,8 @@
 title: Truffle Orchards
 date: 2025-05-03
 tags:
+  - mycology
+  - bioremediation
 ---
 We cleared invasive Scotch Broom (*Cytisus scoparius*) and planted native Garry Oak (*Quercus garryana*) saplings root-inoculated with Oregon Black Truffle (*Leucangium carthusianum*) spores. This work is part of an ongoing Truffière silviculture research collaboration between The Evergreen State College and [Alpine Truffle LLC](https://www.alpinetruffle.com/) 
 ## Identification of truffle mycorrhiza in tree roots

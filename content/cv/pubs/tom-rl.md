@@ -2,8 +2,8 @@
 title: Theory of Mind for Deep Reinforcement Learning in Hanabi
 date: 2021-01-22
 tags:
-  - ToM
-  - rl
+  - machine-learning
+  - publication
 ---
 Andrew Fuchs, **Michael Walton**, Theresa Chadwick, Doug Lange
 ![[cv/pubs/images/hanabi_horz.png]]

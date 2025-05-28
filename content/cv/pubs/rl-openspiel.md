@@ -2,8 +2,8 @@
 title: "Multi-agent Reinforcement Learning in OpenSpiel: A Reproduction Report"
 date: 2021-02-27
 tags:
-  - game-theory
-  - rl
+  - machine-learning
+  - publication
 ---
 [paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=TTEHCqUAAAAJ&citation_for_view=TTEHCqUAAAAJ:_FxGoFyzp5QC), [code](https://github.com/aicenter/openspiel_reproductions)
 

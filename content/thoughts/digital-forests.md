@@ -2,6 +2,8 @@
 title: Digital Forestry
 date: 2023-01-30
 transclude: "false"
+tags:
+  - writing
 ---
 >*The idea is like grass. It craves light, likes crowds, thrives on crossbreeding, grows better for being stepped on.* — Ursula K. Le Guin
 

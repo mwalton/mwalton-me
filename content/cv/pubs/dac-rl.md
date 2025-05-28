@@ -2,8 +2,8 @@
 title: Distributed Consensus Reinforcement Learning
 date: 2022-03-03
 tags:
-  - multiagent
-  - rl
+  - machine-learning
+  - publication
 ---
 __Michael Walton__, Benjamin Migliori, John Reeder
 ![[cv/pubs/images/dac.png]]

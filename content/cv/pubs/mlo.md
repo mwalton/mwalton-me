@@ -2,7 +2,8 @@
 title: Hunting for naval mines with deep neural networks
 date: 2017-09-18
 tags:
-  - cv
+  - machine-learning
+  - publication
 ---
 Daniel Gebhardt, Keyur Parikh, Iryna Dzieciuch, __Michael Walton__, Nhut Anh Vo Hoang
 

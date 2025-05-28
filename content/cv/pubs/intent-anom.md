@@ -2,7 +2,8 @@
 title: Intention-based Behavioral Anomaly Detection
 date: 2019-01-07
 tags:
-  - ToM
+  - machine-learning
+  - publication
 ---
 Fan Hung, Xu Xie, Andrew Fuchs, **Michael Walton**, Siyuan Qi, Yixin Zhu, Doug Lange, Song-Chun Zhu
 ![[cv/pubs/images/intent-anom.png]]

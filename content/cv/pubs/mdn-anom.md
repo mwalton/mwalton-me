@@ -2,7 +2,8 @@
 title: Unsupervised anomaly detection for digital radio frequency transmissions
 date: 2017-12-18
 tags:
-  - rf
+  - machine-learning
+  - publication
 ---
 __Michael Walton__, Maurice Ayache, Logan Straatemeier, Daniel Gebhardt, Benjamin Migliori
 ![[cv/pubs/images/rf.png]]

@@ -1,7 +1,10 @@
 ---
 title: SFI Collective Intelligence
 date: 2023-06-22
-tags: []
+tags:
+  - conference
+  - machine-learning
+  - complexity
 ---
 [![ci](https://sfi-edu.s3.amazonaws.com/sfi-edu/production/uploads/conferences/Collecttive-Intell-header-crop_b4bd72.jpg.1280x514_q85_box-NaN%2CNaN%2CNaN%2CNaN_upscale.jpg)
 ](https://www.santafe.edu/engage/learn/programs/collective-intelligence-2023)
