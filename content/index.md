@@ -8,7 +8,7 @@ transclude: "false"
 
 Welcome traveler! You've wandered into my humble [[thoughts/digital-forests|forest of ideas]]! 
 
-I think and write about our relationships with technology & ecosystems.  I also study mycology and microbiology at The Evergreen State College. After [[nejsem_stroj|walking away]] from many years spent in [[cv/pubs/tom-rl|Machine]] [[cv/pubs/rl-openspiel|Learning]] [[cv/pubs/dac-rl|research]], I have gained some understanding of how power & technology harms us and harms our world. I continue to engage with "AI" in the form of [[midtheory|criticism]] and resistance. Many [[fellow_traveler|long roads]] lie ahead, but I doggedly believe better futures are possible.
+I think and write about our relationships with technology & ecosystems.  I also study mycology and microbiology at The Evergreen State College. After [[nejsem_stroj|walking away]] from many years spent in [[cv/pubs/tom-rl|Machine]] [[cv/pubs/rl-openspiel|Learning]] [[cv/pubs/dac-rl|research]], I have gained some understanding of how power & technology can harm us and harm our world. I continue to engage with "AI" in the form of [[midtheory|criticism]] and resistance. Many [[fellow_traveler|long roads]] lie ahead, but I doggedly believe better futures are possible.
 
 > *Every story I create, creates me. I write to create myself.* — Octavia E. Butler
 
