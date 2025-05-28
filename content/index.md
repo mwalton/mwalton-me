@@ -12,7 +12,7 @@ I think and write about our relationships with technology & ecosystems.  I also 
 
 > *Every story I create, creates me. I write to create myself.* — Octavia E. Butler
 
-I have found value and insight by combining [reflexivity](https://pages.gseis.ucla.edu/faculty/agre/critical.html) into technical research & practice. For me, this takes form in [[thoughts/index|creative writing]]. I wander around a lot but I'm mostly based in the Pacific Northwest where I find inspiration from the diversity of life I'm grateful to be immersed in there. Here are some paths you might follow to get to know more about me, my work & interests:
+I have found insight and comfort by combining [reflexivity into technical practice](https://pages.gseis.ucla.edu/faculty/agre/critical.html). For me, this takes form in [[thoughts/index|creative writing]]. I wander often, but I'm mostly based in the Pacific Northwest where I find inspiration from the beauty of the region. Here are some paths you might follow to get to know more about me, my work & interests:
 
 - 🌱 greenhouse : recent [[posts/index|doings]], [[thoughts/index|musings]] and evolving ideas
 - [[cv/current_doings|🌲 woodlands]] : longstanding positions and projects
