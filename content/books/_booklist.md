@@ -3,8 +3,8 @@ title: Reading List
 date: 2023-10-30
 ---
 ## Current Reads
-- [The AI Con: How to Fight Big Tech's Hype and Create the Future We Want](https://app.thestorygraph.com/books/e90518ee-8aeb-4e3e-b4c1-8a434bd3e67f)
-- [Earth Repair: A Grassroots Guide to Healing Toxic and Damaged Landscapes](https://app.thestorygraph.com/books/93e6bb50-0b04-425d-94c6-c4e9c5ec1789)
+- [Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI](https://www.penguinrandomhouse.com/books/743569/empire-of-ai-by-karen-hao/),  Karen Hao
+- [Earth Repair: A Grassroots Guide to Healing Toxic and Damaged Landscapes](https://app.thestorygraph.com/books/93e6bb50-0b04-425d-94c6-c4e9c5ec1789), Leila Darwish
 
 *Find me on [The StoryGraph](https://app.thestorygraph.com/profile/mwalton) for reading updates. Happy to discuss if you see something you're reading!*
 ## Favorites of 2024
