@@ -14,9 +14,10 @@ date: 2023-03-06
 - [The Evergreen State College](https://www.evergreen.edu/) : Mycology Certificate & Microbiology post-bacc
 - MS [Georgia Institute of Technology](https://www.cc.gatech.edu/) : Computer Science (Machine Learning)
 - BS [UCSC](https://www.ucsc.edu/) : Cognitive Science (AI & Human Computer Interaction)
-## Projects
-This is a list of notable projects and publications I've contributed to. Find me on [github](https://github.com/mwalton) or [scholar](https://scholar.google.com/citations?user=TTEHCqUAAAAJ) for more!
+## Projects & Publications
+This is a curated list of notable works I've contributed to.
 
+- [Mourning On-Demand: Digital Afterlife Services and Lamentation Economics ](https://mid-theory.com/2025/01/08/mourning-on-demand-digital-afterlife-services-and-lamentation-economics/)
 - [[cv/pubs/rl-openspiel|Multi-agent Reinforcement Learning in OpenSpiel]]: [paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=TTEHCqUAAAAJ&citation_for_view=TTEHCqUAAAAJ:_FxGoFyzp5QC), [code](https://github.com/aicenter/openspiel_reproductions)
 - [[cv/pubs/tom-rl|Theory of Mind for Deep Reinforcement Learning in Hanabi]]: [paper](https://arxiv.org/abs/2101.09328), [code](https://github.com/mwalton/ToM-hanabi-neurips19)
 - [[cv/pubs/dac-rl|Distributed Consensus Reinforcement Learning]]: [patent](https://patents.google.com/patent/US11321635B2/en)
