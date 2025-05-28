@@ -4,7 +4,7 @@ date: 2024-07-02
 tags:
   - conference
   - climate
-  - digital-studies
+  - tech-ethics
 ---
 ![[Pasted image 20240704204717.png]]
 

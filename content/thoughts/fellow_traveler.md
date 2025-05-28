@@ -4,6 +4,7 @@ date: 2023-03-22
 transclude: "false"
 tags:
   - writing
+  - reflexivity
 ---
 ### *Here we are… where are we?*
 ![[Pasted image 20240602174523.png]]

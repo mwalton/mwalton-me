@@ -4,7 +4,7 @@ date: 2022-01-01
 transclude: "false"
 tags:
   - writing
-  - tech-ethics
+  - reflexivity
 ---
 ### *A human story*
 

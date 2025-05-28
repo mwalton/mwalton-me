@@ -3,6 +3,7 @@ title: Shedding the Aluminum Shell
 date: 2025-01-01
 tags:
   - writing
+  - reflexivity
 ---
 *Digital Molting* is a form of self-curation wherein one "sheds" old centers of digital identity by deleting or archiving old accounts and artifacts. But what of the material sheddings of our digital selves? As apparently abstract as an avatar may be, the primary tools we use to craft our virtual selves are solidly physical: Our devices come from somewhere. We build relationships to each other and make sense of the world through interactions mediated by them. We are changed. When the time comes, we shed them as waste. Is a discarded device "consumed"? Is a dead laptop just a husk of plastic, copper and heavy metals?
 

@@ -4,6 +4,7 @@ date: 2024-05-17
 transclude: "false"
 tags:
   - conference
+  - tech-ethics
 ---
 [![[Pasted image 20240602170056.png]]](https://csss.uw.edu/)
 
