@@ -6,9 +6,7 @@ transclude: "false"
 <img src="./thoreaus_hut.svg" height="350" />
 </p>
 
-Welcome traveler! You've wandered into my humble [[thoughts/digital-forests|forest of ideas]]! 
-
-I think and write about relationality between technology, people & ecosystems.  I also study mycology and microbiology at The Evergreen State College. After [[nejsem_stroj|walking away]] from many years spent in [[cv/pubs/tom-rl|Machine]] [[cv/pubs/rl-openspiel|Learning]] [[cv/pubs/dac-rl|research]], I have gained some understanding of how power & technology can harm us and harm our world. I continue to engage with "AI" in the form of [[midtheory|criticism]] and resistance. Many [[fellow_traveler|long roads]] lie ahead, but I doggedly believe better futures are possible.
+Hi I'm Myke. I think and write about relationality in ecosystems & technology.  I also study mycology and microbiology at The Evergreen State College. After [[nejsem_stroj|walking away]] from many years spent in [[cv/pubs/tom-rl|Machine]] [[cv/pubs/rl-openspiel|Learning]] [[cv/pubs/dac-rl|research]], I have gained some perspective on how power & technology can [[midtheory|harm us]] and harm our world. Many [[fellow_traveler|long roads]] lie ahead, but I doggedly believe better futures are yet to be imagined.
 
 > *Every story I create, creates me. I write to create myself.* — Octavia E. Butler
 
