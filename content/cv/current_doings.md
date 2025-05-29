@@ -5,9 +5,9 @@ date: 2023-03-06
 ## Current Doings
 - **[The Evergreen State College](https://www.evergreen.edu/)**: Mycology & Microbiology student. Interested in bioremediation and myco-materials research.
 ## Previous Positions
-- __[ČVUT Artificial Intelligence Center](https://www.aic.fel.cvut.cz/)__ : Model-based multi-agent reinforcement learning agents for solving [[cv/pubs/rl-openspiel|imperfect information games]]
-- __[NIWC Pacific](https://www.niwcpacific.navy.mil/)__ : Reinforcement learning algorithms that learn to [[cv/pubs/tom-rl|cooperate in groups]] novel  methods for analyzing [[cv/pubs/mdn-anom|radio signals]] & [[cv/pubs/mlo|sonar]]; architectures for [low SWaP inference](https://patents.google.com/patent/US11030518B2/en)
-- __[Specific Technologies](https://www.biomerieux-diagnostics.com/vitek-reveal)__ : (acquired by bioMérieux) Built models for detection and classification of microbiota using colorimetric sensor arrays
+- __[ČVUT Artificial Intelligence Center](https://www.aic.fel.cvut.cz/)__ : Multi-agent reinforcement learning algorithms in [[cv/pubs/rl-openspiel|imperfect information games]]
+- __[NIWC Pacific](https://www.niwcpacific.navy.mil/)__ : Reinforcement learning algorithms in [[cv/pubs/tom-rl|cooperative games]].   Machine learning for anomaly detection in [[cv/pubs/mdn-anom|radio signals]] and [[intent-anom|marine traffic]] data. Computer vision for [[cv/pubs/mlo|detection of mine-like objects in sonar data]]. Embedded architectures for [low SWaP (Size Weight and Power) inference on edge computing systems](https://patents.google.com/patent/US11030518B2/en)
+- __[Specific Technologies](https://www.biomerieux-diagnostics.com/vitek-reveal)__ : (acquired by bioMérieux) Statistical models for detection and classification of microbiota from emitted metabolites via Colorimetric Sensor Array data
 ## Education
 - [The Evergreen State College](https://www.evergreen.edu/) : Mycology Certificate & Microbiology post-bacc
 - MS [Georgia Institute of Technology](https://www.cc.gatech.edu/) : Computer Science (Machine Learning)
