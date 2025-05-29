@@ -10,7 +10,7 @@ Hi I'm Myke. I think and write about relationality in ecosystems & technology.  
 
 I wander, but I can most often be found in the Pacific Northwest and Southwest of Turtle Island. Here are some paths you might follow to get to know more about me, my work & ideas:
 
-- 🌱 greenhouse : my recent [[posts/index|doings]] and [[thoughts/index|writing]]
+- 🌱 greenhouse : recent [[posts/index|doings]] and [[thoughts/index|writing]]
 - [[cv/current_doings|🌲 woodlands]] : positions and projects
 - [[books/_booklist|🍃 tea garden]] : curated reading list
 
