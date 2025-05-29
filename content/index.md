@@ -6,7 +6,7 @@ transclude: "false"
 <img src="./thoreaus_hut.svg" height="350" />
 </p>
 
-Hi I'm Myke. I think and write about relationality in ecosystems & technology.  I also study mycology and microbiology at The Evergreen State College. After [[nejsem_stroj|walking away]] from many years spent in [[cv/pubs/tom-rl|Machine]] [[cv/pubs/rl-openspiel|Learning]] [[cv/pubs/dac-rl|research]], I now work to better understand how power & technology [[midtheory|harm us]] and to [[garry-oak|heal our world]]. Many [[fellow_traveler|long roads]] lie ahead, but I doggedly believe better futures are [[digital-ideas|yet to be dreamed of]].
+Hi I'm Myke. I think and write about relationality in ecosystems & technology.  I also study mycology and microbiology at The Evergreen State College. After [[nejsem_stroj|walking away]] from many years spent in [[cv/pubs/tom-rl|Machine]] [[cv/pubs/rl-openspiel|Learning]] [[cv/pubs/dac-rl|research]], I now try to better understand how power & technology [[midtheory|harm us]] and work to [[garry-oak|heal our world]]. Many [[fellow_traveler|long roads]] lie ahead, but I doggedly believe better futures are [[digital-ideas|yet to be dreamed of]].
 
 > *Every story I create, creates me. I write to create myself.* — Octavia E. Butler
 
