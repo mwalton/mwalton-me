@@ -10,7 +10,7 @@ date: 2023-03-06
 - __[NIWC Pacific](https://www.niwcpacific.navy.mil/)__ : Reinforcement learning algorithms in [[cv/pubs/tom-rl|cooperative games]].   Machine learning for anomaly detection in [[cv/pubs/mdn-anom|radio signals]] and [[intent-anom|marine traffic]] data. Computer vision for [[cv/pubs/mlo|detection of mine-like objects in sonar data]]. Embedded architectures for [low SWaP (Size Weight and Power) inference on edge computing systems](https://patents.google.com/patent/US11030518B2/en)
 - __[Specific Technologies](https://www.biomerieux-diagnostics.com/vitek-reveal)__ : (acquired by bioMérieux) Statistical models for detection and classification of microbiota from emitted metabolites via Colorimetric Sensor Array data
 ## Education
-- [The Evergreen State College](https://www.evergreen.edu/academics/professional-continuing-education/mycology) : Mycology Certificate & Microbiology post-bacc. Interdisciplinary program integrating Life Science with Social Science (Food Justice & Environmental Justice)
+- [The Evergreen State College](https://www.evergreen.edu/academics/professional-continuing-education/mycology) : Mycology Certificate & Microbiology post-bacc. Interdisciplinary program integrating Life Science with Social Science (Food and Environmental Justice)
 - MS [Georgia Institute of Technology](https://www.cc.gatech.edu/) : Computer Science (Machine Learning)
 - BS [UCSC](https://www.ucsc.edu/) : Cognitive Science (AI & Human Computer Interaction)
 ## Projects & Publications
