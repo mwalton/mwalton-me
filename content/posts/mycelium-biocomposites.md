@@ -1,6 +1,6 @@
 ---
 title: Building with Fungi
-date: 2025-06-05
+date: 2025-06-04
 tags:
   - mycology
 ---
