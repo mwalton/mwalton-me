@@ -1,6 +1,6 @@
 ---
 title: Reading List
-date: 2023-10-30
+date: 2025-06-04
 ---
 ## Current Reads
 *Find me on [The StoryGraph](https://app.thestorygraph.com/profile/mwalton) for updates. Happy to discuss if you see something you're reading!*
