@@ -3,7 +3,7 @@ title: Reading List
 date: 2025-06-04
 ---
 ## Current Reads
-*Find me on [The StoryGraph](https://app.thestorygraph.com/profile/mwalton) for updates. Happy to discuss if you see something you're reading!*
+*Find me on [The StoryGraph](https://app.thestorygraph.com/profile/mwalton) for updates. I'm happy to discuss if you see something you're reading!*
 ## Favorites of 2024
 - [21st Century Guidebook to Fungi](https://www.cambridge.org/highereducation/books/21st-century-guidebook-to-fungi/E0C1FCB9FFCF89CFB11EF0CACA1CD436#overview), David Moore, Geoffrey D. Robson & Anthony P. J. Trinci
 - [Imagination: A manifesto](https://www.ruhabenjamin.com/imagination-a-manifesto), Ruha Benjamin
