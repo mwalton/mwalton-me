@@ -3,10 +3,7 @@ title: Reading List
 date: 2023-10-30
 ---
 ## Current Reads
-- [Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI](https://www.penguinrandomhouse.com/books/743569/empire-of-ai-by-karen-hao/),  Karen Hao
-- [Earth Repair: A Grassroots Guide to Healing Toxic and Damaged Landscapes](https://app.thestorygraph.com/books/93e6bb50-0b04-425d-94c6-c4e9c5ec1789), Leila Darwish
-
-*Find me on [The StoryGraph](https://app.thestorygraph.com/profile/mwalton) for reading updates. Happy to discuss if you see something you're reading!*
+*Find me on [The StoryGraph](https://app.thestorygraph.com/profile/mwalton) for updates. Happy to discuss if you see something you're reading!*
 ## Favorites of 2024
 - [21st Century Guidebook to Fungi](https://www.cambridge.org/highereducation/books/21st-century-guidebook-to-fungi/E0C1FCB9FFCF89CFB11EF0CACA1CD436#overview), David Moore, Geoffrey D. Robson & Anthony P. J. Trinci
 - [Imagination: A manifesto](https://www.ruhabenjamin.com/imagination-a-manifesto), Ruha Benjamin
