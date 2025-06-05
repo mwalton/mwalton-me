@@ -12,7 +12,7 @@ date: 2023-03-06
 ## Education
 - [The Evergreen State College](https://www.evergreen.edu/academics/professional-continuing-education/mycology) : Mycology Certificate & Microbiology post-bacc. Interdisciplinary program integrating Life Science and Social Science (Food and Environmental Justice)
 - MS [Georgia Institute of Technology](https://www.cc.gatech.edu/) : Computer Science (Machine Learning)
-- BS [UCSC](https://www.ucsc.edu/) : Cognitive Science (AI & Human Computer Interaction)
+- BS [UCSC](https://www.ucsc.edu/) : Cognitive Science (Machine Learning & Human Computer Interaction)
 ## Projects & Publications
 A list of some notable works I've contributed to.
 - [[midtheory|Mourning On-Demand: Digital Afterlife Services and Lamentation Economics]]: [essay](https://mid-theory.com/2025/01/08/mourning-on-demand-digital-afterlife-services-and-lamentation-economics/)
