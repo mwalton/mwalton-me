@@ -5,7 +5,7 @@ tags:
   - tech-ethics
   - conference
 ---
-![[Pasted image 20240602192214.png]]
+![[Pasted image 20240602192214.png|a photo of Stanford University's campus lawn. stone buildings with amber red terracotta roofs]]
 
 Stanford's [Ethics, Technology & Public Policy Course](https://ethicsandtech.stanford.edu/) offered a critical lens on topics ranging from privacy and surveillance, algorithmic fairness, impacts of automation on workers and the implications of private sector platforms for democratic institutions. Guest lectures from [Rumman Chowdhury](https://www.rummanchowdhury.com/) and [Meredith Whittaker](https://ainowinstitute.org/author/meredith-whittaker) where particularly insightful and inspiring.
 

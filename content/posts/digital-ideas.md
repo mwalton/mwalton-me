@@ -12,11 +12,11 @@ I gave a presentation at University of Michigan's Digital IDEAS Summer Institute
 
 This work explored how material and data extraction has been sustained through corporate capture of regulatory activities and how popular narrative discourses surrounding these technologies has constrained broader publics' ability to imagine alternative futures. I closed with a discussion on methodology from participatory & speculative design as a potential path forward (to "Reweave AI") towards tools for co-liberation. Other members of my work stream provided insightful critical feedback and generously shared references that have already proved helpful in further developing these ideas.
 
-![[Pasted image 20240704204717.png]]
+![[Pasted image 20240704204717.png|Digital X Climate logo with white text overlayed on a satellite photo of planet earth surrounded by ferns and other green foliage]]
 
 It was a pleasure and a privilege to be selected as a member of the [University of Michigan Digital Studies Institute](https://www.digitalstudies.umich.edu/) 2024 Cohort of the [Digital IDEAS (Inclusion, Diversity, Equity, Access, Success) Summer Institute](https://www.digitalstudies.umich.edu/digital-ideas.html). The cohort this year included a diversity of US and international scholars, alt-ac practitioners, artists and activists. Over the course of two weeks, we attended keynote lectures, panel discussions and participated in methodology workshops & group discussions.
 
-![[Pasted image 20240705091257.png]]
+![[Pasted image 20240705091257.png|photo of a man with an African grey parrot on his shoulder with a biography for Mike Walton in white text with a navy blue background]]
 
 Some of my favorite talks included [Wendy Chun](https://www.sfu.ca/communication/people/faculty/wendy-chun.html)'s *How Are You?: Sentiment & Surveillance* which explored alienation and disaffection on social media and [Anna Watkins Fisher](https://www.digitalstudies.umich.edu/people/faculty/annawfis.html)'s *It’s All Good: Indifferent Positivity in the Era of Climate Change* which described how embedding indifferent positivity in the semiotics of social platform design has scaled a mentality of corporate public relations detached from scientific realities.
 
@@ -28,4 +28,4 @@ She provided an illuminating response that there is no formula for "getting this
 
 I left Ann Arbor with a full reading list and an even fuller heart. Thank you to my fellow cohort members, the faculty and staff at DSI for organizing such a spectacular event!
 
-![[2024 IDEAS Cohort - Pic 1.jpg]]
+![[2024 IDEAS Cohort - Pic 1.jpg|group photo of attendees to Digital IDEAS 2024 flanked by blue University of Michigan Digital Studies Institute banners]]

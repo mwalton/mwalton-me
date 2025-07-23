@@ -7,7 +7,7 @@ tags:
   - reflexivity
 ---
 ### *Here we are… where are we?*
-![[Pasted image 20240602174523.png]]
+![[Pasted image 20240602174523.png|photo of a dirt path through a small meadow with a blue sky above and beams of sunlight scattering through the branches of a juniper tree]]
 
 In the wake of decades of disruption, we find ourselves disoriented, lost as ever in an apparently endless forest. We were led here by… someone? Surely some of us must have known, better than most, where we were going… right? As we imagine ourselves traversing deeper down forked paths of potentialities it becomes ever harder to tell if their branching factor is increasing or decreasing. Around that next bend are there ten possible futures, or ten million?— perhaps there is but one.
 

@@ -6,8 +6,8 @@ tags:
 ---
 A poster presentation I gave at The Evergreen State College
 
-![[Building with Fungi.jpg]]
-
+![[Building with Fungi.jpg|scientific poster presentation with a tan background and brown text titled "Building with Fungi: Advancements in Mycelium-bound composite materials in Construction Applications"]]
+[Full text of poster here](https://docs.google.com/presentation/d/1TboCw8LHyBrekWKENfAgYPdSd49rCT37sa6Um-_EzVs/edit?usp=sharing)
 # References
 1. Alemu, D., Tafesse, M., & Mondal, A. K. (2022). Mycelium-based composite: The future sustainable biomaterial. _International Journal of Biomaterials_, _2022_, 8401528. doi:10.1155/2022/8401528
 2. Bonnefin, Ilvy (2022). Emerging Materials: Mycelium Brick. *Certified Energy* www.certifiedenergy.com.au/emerging-materials/emerging-materials-mycelium-brick

@@ -8,7 +8,7 @@ tags:
 ---
 ### *A human story*
 
-![[Pasted image 20240602173934.png]]
+![[Pasted image 20240602173934.png|photo of a man with his back turned to the camera walking through a yellow stone arch gate flanked by gray stone slot canyon covered in green moss]]
 
 Below the window of my 45sqm flat, surrounded on all sides by old stone buildings and shielded from the streets of central Prague, was a small moss-covered cobblestone courtyard. In the center of the square was a lone pine tree. Most every day, around midday, a pack of local cats would convene in the yard, pouncing around, play fighting, grooming, or using the little tree as a scratching post. If the sun was out, a few might stretch out across the warm stone ground, cup their paws over their eyes and sun themselves. On more than one occasion, one of them would arrive with a plump rat hanging from its mouth, proudly saunter chest-first across the courtyard and settle in the shade of the tree to gnaw on its catch. I’d spend hours leaning against the wood frame of my window watching them; the cats and the tree. I’d let my eyes wander around and think about how deeply the tree’s roots might run through the compacted soil, how long it might have been there (how I should be working on that paper), who may’ve planted it, or if it might be the lonely child of a forgotten stand now long since culled. The area outside my window was inaccessible from my building and, in fact, I never saw any people down there. It belonged to the cats and that tree.
 

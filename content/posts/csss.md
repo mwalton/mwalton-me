@@ -6,7 +6,7 @@ tags:
   - conference
   - tech-ethics
 ---
-[![[Pasted image 20240602170056.png]]](https://csss.uw.edu/)
+[![[Pasted image 20240602170056.png|logo of the Center for Statistics and the Social Sciences depicting a bellcurve over the Seattle skyline with a teal background and white text]]](https://csss.uw.edu/)
 
 I'm grateful to the faculty, staff and students at UW's CSSS for the invitation to attend this celebration of the group's 25th anniversary 🎉 I gave a short presentation to group's graduate students and took some notes on the workshops and talks I attended:
 - [Text as Data Short Course](https://gist.github.com/mwalton/d07cfb6cd9cdfebfb9280cc7a55900ca#file-text_as_data-md)

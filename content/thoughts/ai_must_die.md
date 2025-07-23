@@ -13,4 +13,4 @@ I wrote a zine titled [AI MUST DIE!](https://www.aimustdie.info/) This manifesto
 
 Thank you to my collaborator [Cam Smith](https://smith.cam/), [Common Area Maintenance](https://www.camseattle.org/) for printing support and to all our draft readers for your feedback.
 
-[![AI Must Die Cover](https://www.aimustdie.info/assets/cover.png)](https://www.aimustdie.info/)
+[![Cover image consisting of a white cone-shaped security robot in a pool of water being recovered by two secuirty officers in blue shirts while a woman in a black dress observes. Incident 68: Security Robot Drowns Itself in a Fountain AI Incident Database (AIID) // incidentdatabase.ai](https://www.aimustdie.info/assets/cover.png)](https://www.aimustdie.info/)

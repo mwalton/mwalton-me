@@ -9,14 +9,14 @@ tags:
 
 Lots of people put stickers on their laptops. In my experience this behavior doesn't seem to only be about beautifying the object; or if it is the aesthetics are often confusing or intentionally chaotic. Unlike a home or our bodies, the object is only with us for a relatively short time. It seems to be more about broadcasting a particular set of messages; or, more passively: capturing keyframes of an human identity in constant kaleidoscopic re-configuration.
 
-![[drupat-2.jpg]]
+![[drupat-2.jpg|photo of two caddishfly larvae with gold and pearl gilded cocoons facing each other]]
 *Figure 1. Trichoptera larva with case, 1980-2000. Photographer: Frédéric Delpech.*
 
 I'm reminded of caddishfly larvae, which (in a natural environment) construct cocoons around their bodies by gluing twigs and rocks together with their saliva. The artist Hubert Duprat[^1],[^2] collaborated with these tiny creatures by immersing them in a tank filled with flecks of gold, pearls and precious stones from which they happily built their transformative tubes.
 
 Like the gilded caddishfly, so too do we carefully collect, curate and glue stickers around the hosts of our digital selves. I wonder, then, what will *my* aluminum shell prove to be: A vessel of cybernetic transmutation or an information cocoon[^3]?
 
-![[caddis-gif-2.gif]]
+![[caddis-gif-2.gif|an animation of a caddishfly larvae manipulating a fleck of gold while building itself a cocoon]]
 *Figure 2: Me, meticulously deciding where to put a silly little sticker on my silly little laptop*
 
 Regardless, this exercise in personalization makes me *miss* a laptop when I shed it. This sentimentality in no way justifies the extractive supply-chain that led to the device's creation; nor can I justify adding yet another artifact to our species' collective electronic waste pile when I discard it. Perhaps it's just tech commodity fetishism. Still, I miss my stickers.

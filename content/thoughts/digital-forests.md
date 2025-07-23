@@ -23,4 +23,4 @@ Stewardship, however is more nuanced. Its definition is always context-dependent
 
 Are the beings that people the internet healthy? happy? thriving? What does good stewardship look like on the complex frontiers of our virtual world? What practices engender _care_ for the health and wellbeing of the planetary cyber-physical systems our technologies shape and are shaped by?
 
-![[thoughts/images/cozyweb-1800.jpg|700]]*Illustration from Maggie Appleton's [AI Dark Forest](https://maggieappleton.com/ai-dark-forest)*
+![[thoughts/images/cozyweb-1800.jpg|hand drawn illustration of the "dark forest of the clear web" inhabited by data scavengers, adtech marketers and trolls. digital gardens in the topsoil below the forest consisting of loosely organized notes, the 'cozy web' underground containing enclave communities and the dark web deep under the surface|700]]*Illustration from Maggie Appleton's [AI Dark Forest](https://maggieappleton.com/ai-dark-forest)*

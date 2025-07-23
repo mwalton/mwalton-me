@@ -3,7 +3,7 @@ title: "mwalton.me"
 transclude: "false"
 ---
 <p align="center">
-<img src="./thoreaus_hut.svg" height="350" />
+<img src="./img/thoreaus_hut.svg" alt="hand-drawn ink illustration of a small cabin surrounded by conifer trees" height="350" />
 </p>
 
 Hi I'm Myke. I think and write about ecology and technology.  I study [[tags/mycology|Mycology]] at The Evergreen State College. Sometimes I write about [[ai_must_die|power and technology]] and my experience [[nejsem_stroj|walking away]] from [[tags/machine-learning|Machine Learning]]. Many [[fellow_traveler|long roads]] lie ahead, but I believe better futures are [[digital-ideas|yet to be dreamed of]].
