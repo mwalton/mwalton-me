@@ -3,7 +3,7 @@ title: "The Big River"
 date: 2025-07-23
 tags:
 ---
-*I am actively looking for collaborators and people who have something to say on this topic. If you would like to talk about this [[contact|contact me]].*
+*I am looking for collaborators and people who have something to say on this topic. If you would like to talk about this [[contact|contact me]].*
 
 I have become interested in the history and ecology of The Columbia River. The river is called  Nch’i-Wàna by Yakima people, Wimahl in Chinook and swah'netk'qhu in Sinixt dialect. These names roughly translate to "The Big River". The Big River and its tributaries have played a central role in the region's ecology, culture and economy for thousands of years. Since the 18th century, colonization, dredging and dam construction have severely damaged local ecosystems and native cultural sites [^4],[^5]. Today, The Big River hosts a sprawling web of power generation and computing infrastructure. Notably, Google's first datacenter in The Dalles, Oregon (which is set to expand)[^1].
 
