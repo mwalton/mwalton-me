@@ -11,12 +11,13 @@ The US President's recently released *AI Action Plan*[^3] proposes streamlining 
 
 To better understand the history, culture and ecology of this topic I am committing the next few weeks to focused research while traveling the river. I am not sure what I will learn, or what I might create with this information. An early idea I have is an interactive (story) map visualizing  environmental data and historical information overlayed with infrastructure construction projects.
 ## Some resources I've read or intend to read
-If you have relevant recommended reading, or thoughts about this project please [[contact|contact me]].
 - [Data Centers Aren’t the Future of American Prosperity](https://datasociety.net/library/data-centers-arent-the-future-of-american-prosperity/)
 - [A River Lost: The Life and Death of the Columbia](https://www.discovernw.org/mm5/merchant.mvc?Screen=PROD&Product_Code=09267&Session_ID=e22ffd9bd5a93953829bc7a568f412bf)
 - [Native River: The Mid-Columbia Remembered](https://wsupress.wsu.edu/product/native-river/)
 - [Decomputing as Resistance](https://danmcquillan.org/decomputing_as_resistance.html)
 - [Feral Data Visualization](https://www.cathrynploehn.com/feraldataviz/feral-data-viz.pdf)
+
+If you have reading recommendations, or thoughts about this topic please [[contact|contact me]].
 
 [^1]: [Google gets another Go: Second Data Center Garners TD City approval](https://columbiacommunityconnection.com/the-dalles/google-gets-another-go-second-data-center-garners-td-city-approval), January 25, 2025, Columbia Community Connection News
 [^2]: [Thirsty for power and water, AI-crunching data centers sprout across the West](https://andthewest.stanford.edu/2025/thirsty-for-power-and-water-ai-crunching-data-centers-sprout-across-the-west/), April 8, 2025, Bill Lane Center for the American West at Stanford University
