@@ -12,6 +12,7 @@ date: 2025-07-23
 - __[Specific Technologies](https://www.biomerieux-diagnostics.com/vitek-reveal)__ : (acquired by bioMérieux) Statistical models for detection and classification of microbiota from emitted metabolites via Colorimetric Sensor Array data
 ## Education
 - [The Evergreen State College](https://www.evergreen.edu/academics/professional-continuing-education/mycology) : Microbiology post-bacc & Mycology Certificate
+- PhD (not completed) [Czech Technical University](https://www.cvut.cz/) : Faculty of Electrical Engineering
 - MS [Georgia Institute of Technology](https://www.cc.gatech.edu/) : Computer Science (Machine Learning)
 - BS [UCSC](https://www.ucsc.edu/) : Cognitive Science (Machine Learning & Human Computer Interaction)
 ## Projects & Publications
