@@ -3,7 +3,7 @@ title: "The Big River"
 date: 2025-07-23
 tags:
 ---
-*I am actively looking for collaborators and people who have something to say on this topic. If you would like to talk about this, please [[contact|contact me]].*
+*I am actively looking for collaborators and people who have something to say on this topic. If you would like to talk about this [[contact|contact me]].*
 
 I have become interested in the history and ecology of The Columbia River. The river is called  Nch’i-Wàna by Yakima people, Wimahl in Chinook and swah'netk'qhu in Sinixt dialect. These names roughly translate to "The Big River". The Big River and its tributaries have played a central role in the region's ecology, culture and economy for thousands of years. Since the 18th century, colonization, dredging and dam construction have severely damaged local ecosystems and native cultural sites [^4],[^5]. Today, The Big River hosts a sprawling web of power generation and computing infrastructure. Notably, Google's first datacenter in The Dalles, Oregon (which is set to expand)[^1].
 
@@ -17,7 +17,7 @@ To better understand the history, culture and ecology of this topic I am committ
 - [Decomputing as Resistance](https://danmcquillan.org/decomputing_as_resistance.html)
 - [Feral Data Visualization](https://www.cathrynploehn.com/feraldataviz/feral-data-viz.pdf)
 
-If you have reading recommendations, or thoughts about this topic please [[contact|contact me]].
+If you have reading recommendations, or thoughts about this topic [[contact|contact me]].
 
 [^1]: [Google gets another Go: Second Data Center Garners TD City approval](https://columbiacommunityconnection.com/the-dalles/google-gets-another-go-second-data-center-garners-td-city-approval), January 25, 2025, Columbia Community Connection News
 [^2]: [Thirsty for power and water, AI-crunching data centers sprout across the West](https://andthewest.stanford.edu/2025/thirsty-for-power-and-water-ai-crunching-data-centers-sprout-across-the-west/), April 8, 2025, Bill Lane Center for the American West at Stanford University
