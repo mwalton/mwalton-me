@@ -4,8 +4,8 @@ date: 2025-07-04
 transclude: "false"
 tags:
   - writing
-  - tech-ethics
   - zine
+  - tech-criticism
 ---
 I wrote a zine titled [AI MUST DIE!](https://www.aimustdie.info/) This manifesto was a labor of love (for people) and rage (for systems). If you, too, are sick of corporate tech dominated discourse, it is for you.
 

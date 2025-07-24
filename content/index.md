@@ -6,12 +6,4 @@ transclude: "false"
 <img src="./img/thoreaus_hut.svg" alt="hand-drawn ink illustration of a small cabin surrounded by conifer trees" height="350" />
 </p>
 
-Hi I'm Myke. I think and write about ecology and technology.  I study [[tags/mycology|Mycology]] at The Evergreen State College. Sometimes I write about [[ai_must_die|power and technology]] and my experience [[nejsem_stroj|walking away]] from [[tags/machine-learning|Machine Learning]]. Many [[fellow_traveler|long roads]] lie ahead, but I believe better futures are [[digital-ideas|yet to be dreamed of]].
-
-Here are some paths you might follow to get to know more about me, my work & ideas:
-
-- 🌱 greenhouse : recent [[posts/index|doings]] and [[thoughts/index|writing]]
-- [[cv/current_doings|🌲 woodlands]] : positions and projects
-- [[books/_booklist|🍃 tea garden]] : curated reading list
-
-My door is always open! The best way to reach me is: hi at mwalton dot me
+Hi I'm Myke. I think and write about ecology and technology.  I currently study [[tags/mycology|fungi]] at The Evergreen State College. You can see what I'm up to under [[posts/index|recent doings]]. You can also read some of my [[thoughts/index|writing]] or check out the [[books/_booklist|reading list]] I maintain containing some of my favorite books. My [[cv/current_doings|CV]] lists the positions I've held and projects I've worked on. If you see something that interests you, [[contact|contact me]]!

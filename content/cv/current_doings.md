@@ -1,8 +1,8 @@
 ---
 title: Curriculum Vitae
-date: 2023-03-06
+date: 2025-07-23
 ---
-## Current Doings
+## Currently
 - **[The Evergreen State College](https://www.evergreen.edu/)**: Mycology & Microbiology student. Research interests in mycorrhizal fungi, bioremediation and myco-materials.
 - Community member of the [South Sound Mushroom Club](https://www.southsoundmushroomclub.com/)
 ## Previous Positions
@@ -15,6 +15,7 @@ date: 2023-03-06
 - BS [UCSC](https://www.ucsc.edu/) : Cognitive Science (Machine Learning & Human Computer Interaction)
 ## Projects & Publications
 A list of some notable works I've contributed to.
+- [[ai_must_die|AI MUST DIE: Critical Perspectives on the State of Artificial Intelligence]]: [zine](https://aimustdie.info/)
 - [[midtheory|Mourning On-Demand: Digital Afterlife Services and Lamentation Economics]]: [essay](https://mid-theory.com/2025/01/08/mourning-on-demand-digital-afterlife-services-and-lamentation-economics/)
 - [[cv/pubs/rl-openspiel|Multi-agent Reinforcement Learning in OpenSpiel]]: [paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=TTEHCqUAAAAJ&citation_for_view=TTEHCqUAAAAJ:_FxGoFyzp5QC), [code](https://github.com/aicenter/openspiel_reproductions)
 - [[cv/pubs/tom-rl|Theory of Mind for Deep Reinforcement Learning in Hanabi]]: [paper](https://arxiv.org/abs/2101.09328), [code](https://github.com/mwalton/ToM-hanabi-neurips19)
