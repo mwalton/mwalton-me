@@ -9,7 +9,7 @@ I have become interested in the history and ecology of The Columbia River. The r
 
 The US President's recently released *AI Action Plan*[^3] proposes streamlining of approval processes, relaxation of environmental regulations and utilization of federal land for datacenters. Concurrently, numerous construction projects along The Big River have been proposed by tech giants such as Microsoft and Amazon [^2]. In light of this, I am curious what the future of The Big River might look like.
 
-To better understand the history, culture and ecology of this topic I am committing the next few weeks to focused research while traveling the river. I am not sure what I will learn, or what I might create from this information. An early idea I have is to develop an interactive (story) map visualizing relevant environmental data overlayed with infrastructure construction projects and historical information.
+To better understand the history, culture and ecology of this topic I am committing the next few weeks to focused research while traveling the river. I am not sure what I will learn, or what I might create from this information. An early idea I have is an interactive (story) map visualizing relevant environmental data overlayed with infrastructure construction projects and historical information.
 ## Some relevant resources I've read or intend to read
 If you have recommendations please [[contact|contact me]].
 - [Data Centers Aren’t the Future of American Prosperity](https://datasociety.net/library/data-centers-arent-the-future-of-american-prosperity/)
