@@ -3,13 +3,13 @@ title: "The Big River"
 date: 2025-07-23
 tags:
 ---
-*I am interested in collaborators and thoughts on this topic. If you would like to talk about this [[contact|contact me]].*
+*I am interested in finding collaborators and hearing thoughts on this topic. If you would like to talk about this [[contact|contact me]].*
 
 I have become interested in the history and ecology of what is called The Columbia River. The river is called *Wimahl* or *Wimal* by Chinookan people, *Nch’i-Wàna* by Sahaptin-speaking people and *swah'netk'qhu* by the First Nations Sinixt people. These names roughly translate to "Great River" or "Big River". The Big River and its tributaries have played a central role in the region's ecology, culture and economy for thousands of years. Since the 18th century, colonization, industrialization and dam construction have damaged local ecosystems and dispossessed indigenous peoples of their land [^4],[^5],[^6]. Today, The Big River hosts a web of federally managed power generation sites and corporate owned computing facilities. Notably, Google's first data center in The Dalles, Oregon (which is set to expand)[^1].
 
 The US President's recently released *AI Action Plan*[^3] proposes fast-tracking of data center construction project approvals, utilization of federal land for these facilities and relaxation of relevant environmental protection regulations. Concurrently, multiple hyper-scale datacenter construction projects along the river have been proposed by tech giants such as Microsoft and Amazon [^2]. In light of this, I am curious what the future of The Big River might look like.
 
-In hopes of better understanding the history, politics and ecology of the region while critically investigating data center expansion I am committing the next few weeks to focused research on the topic in-situ, while traveling The Big River. I am open to collaborations and thoughts on these topics. If you have something to say about this [[contact|contact me]].
+In hopes of better understanding the history, politics and ecology of the region while critically investigating data center expansion I am committing the next few weeks to focused research on the topic in-situ, while traveling The Big River. I am interested in finding collaborators and hearing thoughts on these topics. If you have something to say about this [[contact|contact me]].
 ## Some resources I've read or intend to read
 - [Data Centers Aren’t the Future of American Prosperity](https://datasociety.net/library/data-centers-arent-the-future-of-american-prosperity/)
 - [Chinook Resilience: Heritage and Cultural Revitalization on the Lower Columbia River](https://uwapress.uw.edu/book/9780295742267/chinook-resilience/)
