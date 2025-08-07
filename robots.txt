@@ -1,0 +1,5 @@
+# robots.txt file for https://mwalton.me
+# comments to hi@mwalton.me
+
+user-agent: *
+disallow:
