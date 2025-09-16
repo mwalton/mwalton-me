@@ -3,8 +3,8 @@ title: Curriculum Vitae
 date: 2025-07-23
 ---
 ## Currently
-- **[The Evergreen State College](https://www.evergreen.edu/)**: Mycology & Microbiology student. Research interests in mycorrhizal fungi, bioremediation and myco-materials.
-- Community member of the [South Sound Mushroom Club](https://www.southsoundmushroomclub.com/)
+- **[The Evergreen State College](https://www.evergreen.edu/)**: Mycology & Microbiology student
+- Community member of the [Puget Sound Mycological Society](https://www.psms.org/) and the [South Sound Mushroom Club](https://www.southsoundmushroomclub.com/)
 ## Previous Positions
 - __[xD - U.S. Census Bureau](https://xd.gov/)__ : Emerging Technology Fellow, Responsible AI Portfolio Steward
 - __[ČVUT Artificial Intelligence Center](https://www.aic.fel.cvut.cz/)__ : Multi-agent reinforcement learning algorithms in [[cv/pubs/rl-openspiel|imperfect information games]]
